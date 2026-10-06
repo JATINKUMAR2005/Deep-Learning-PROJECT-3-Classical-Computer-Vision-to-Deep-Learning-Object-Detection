@@ -1,0 +1,9 @@
+# Project Requirements for PR 3 - Deep Learning & Computer Vision
+# Institute: Red & White Skill Education
+opencv-python==5.0.0.93
+opencv-contrib-python==5.0.0.93
+ultralytics>=8.3.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+torch>=2.0.0
+torchvision>=0.15.0

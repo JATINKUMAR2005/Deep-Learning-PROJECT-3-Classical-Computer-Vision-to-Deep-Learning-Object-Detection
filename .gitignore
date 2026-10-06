@@ -1,0 +1,7 @@
+# Ignore opencv source tree and cache
+opencv-4.x/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.system_generated/
+*.tmp
